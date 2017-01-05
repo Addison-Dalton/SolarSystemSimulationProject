@@ -1,0 +1,19 @@
+﻿Build started 4/24/2015 12:05:21 PM.
+     1>Project "C:\Users\Owner\Documents\C++AGK\IDE\templates\Addison Dalton-Solar System Project\template.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Creating "C:\Users\Owner\Documents\C++AGK\IDE\templates\Addison Dalton-Solar System Project\\Final\template.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         template.vcxproj -> C:\Users\Owner\Documents\C++AGK\IDE\templates\Addison Dalton-Solar System Project\\Final\template.exe
+       FinalizeBuildStatus:
+         Deleting file "C:\Users\Owner\Documents\C++AGK\IDE\templates\Addison Dalton-Solar System Project\\Final\template.unsuccessfulbuild".
+         Touching "C:\Users\Owner\Documents\C++AGK\IDE\templates\Addison Dalton-Solar System Project\\Final\template.lastbuildstate".
+     1>Done Building Project "C:\Users\Owner\Documents\C++AGK\IDE\templates\Addison Dalton-Solar System Project\template.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43
